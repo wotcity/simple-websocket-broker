@@ -1,0 +1,17 @@
+{
+  "name": "dotcity-websocket-broker",
+  "version": "0.0.1",
+  "description": "Websocket broker (channel) server for IoT devices.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "utils-merge": "^1.0.0",
+    "websocket": "^1.0.17"
+  },
+  "devDependencies": {},
+  "author": "jollen <jollen@jollen.org> (http://jollen.org/)",
+  "license": "Apache 2.0"
+}
