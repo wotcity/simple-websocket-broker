@@ -61,8 +61,6 @@ Most of the .CITY Websocket Broker developers, users and contributors are at WeC
 
 Bugs are reported via [https://github.com/wotcity/dotcity-websocket-broker](https://github.com/wotcity/dotcity-websocket-broker).
 
-## Authors
+## License
 
-Authors ordered by first contribution.
-
-- Jollen `<jollen@jollen.org>`
+Apache License

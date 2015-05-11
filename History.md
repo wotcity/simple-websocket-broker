@@ -1,4 +1,8 @@
-0.0.1 / 2015-05-10
-==================
+Changelog
+=========
 
-  * Initial release
+Version 0.0.1
+--------------
+*Released 2015-05-10*
+
+* Initial release
