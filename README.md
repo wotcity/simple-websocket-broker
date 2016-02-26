@@ -1,6 +1,6 @@
-# dotcity-websocket-broker
+# simple-websocket-broker
 
-Websocket broker (channel) server for IoT devices. Help makers making Internet of Personal Things.
+It is a biolerplate for writing a simple WebSocket broker server. *simple-websocket-broker* is a WebSocket broker (channel) server for IoT devices. It aims to help makers making Internet of Personal Things.
 
 1. [Install](#install)
 2. [Usage](#usage)
@@ -10,8 +10,8 @@ Websocket broker (channel) server for IoT devices. Help makers making Internet o
 
 ## Install
 
-1. [Download dotcity-websocket-broker](https://github.com/wotcity/dotcity-websocket-broker/releases).
-2. Run `$ cd dotcity-websocket-broker` to change the directory.
+1. [Download simple-websocket-broker](https://github.com/wotcity/simple-websocket-broker/releases).
+2. Run `$ cd simple-websocket-broker` to change the directory.
 3. Run `$ npm install` to install the dependencies if you don't already have them.
 4. Run `$ node index.js` to start the broker server.
 
@@ -53,13 +53,13 @@ dotcity-websocket-broker is a broker that it receives sensor data over Websocket
 
 ## Discussion
 
-There are various ways to get involved with .CITY Websocket Broker. We're looking for help identifying bugs, writing documentation and contributing codes.
+There are various ways to get involved with Simple Websocket Broker. We're looking for help identifying bugs, writing documentation and contributing codes.
 
-Most of the .CITY Websocket Broker developers, users and contributors are at WeChat group or IRC channel. You can find us in the [#wotcity](http://webchat.freenode.net/?channels=wotcity) IRC channel on irc.freenode.net. You can get information of how to join WeChat group at [#wotcity](http://webchat.freenode.net/?channels=wotcity).
+Most of the Simple Websocket Broker developers, users and contributors are at WeChat group or IRC channel. You can find us in the [#wotcity](http://webchat.freenode.net/?channels=wotcity) IRC channel on irc.freenode.net. You can get information of how to join WeChat group at [#wotcity](http://webchat.freenode.net/?channels=wotcity).
 
 ## How to Report Bugs
 
-Bugs are reported via [https://github.com/wotcity/dotcity-websocket-broker](https://github.com/wotcity/dotcity-websocket-broker).
+Bugs are reported via [https://github.com/wotcity/simple-websocket-broker](https://github.com/wotcity/simple-websocket-broker).
 
 ## License
 
